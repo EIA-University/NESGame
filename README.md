@@ -12,3 +12,4 @@ El compilador puede ser descargado [aquí](http://www.nespowerpak.com/nesasm/)
 * [Patater](https://patater.com/nes-asm-tutorials/) Otro tutorial
 * [Space invaders](https://github.com/timotei/Space-Invaders-Clone/blob/master/spacein.asm) Space invader para basar los disparos 
 * [Nesdev wiki](https://wiki.nesdev.com/w/index.php/Nesdev_Wiki) Wiki para desarrolladores de NES
+* [CHR Viewer](https://www.romhacking.net/utilities/119/) Pagina de descarga editor de Sprites
