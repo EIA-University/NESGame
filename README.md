@@ -16,7 +16,7 @@ El compilador puede ser descargado [aquí](http://www.nespowerpak.com/nesasm/)
 
 ## To do
 
-- [] Poner a disparar el Sprite al presionar A 
-- [] Generar un sprite propio para el personaje
-- [] Generar aleatoriamente asteroides
-- [] Restar vida al chocar con los asteroides
+- [ ] Poner a disparar el Sprite al presionar A 
+- [ ] Generar un sprite propio para el personaje
+- [ ] Generar aleatoriamente asteroides
+- [ ] Restar vida al chocar con los asteroides
